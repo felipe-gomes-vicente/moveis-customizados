@@ -1,16 +1,27 @@
+/* Google Fonts Typography*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Open+Sans:wght@400;500;700&display=swap');
 
+/* CSS Global variables */
+:root {
+  --text-color-dark: #7D7987;
+  --text-color-light: #F90;
+  --border-line: #ECEFF2;
+}
+
+/* HTML5 display-role reset for browsers */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+/* Body config global */
 body {
   font-family: "Open Sans", sans-serif;
   text-align: center;
 }
 
+/* Main */
 #hero {
     width: 592px;
     margin: 0 auto;
@@ -32,26 +43,31 @@ h1 span {
 }
 
 span, a {
-  color: #ff9900;
+  color: var(--text-color-light);
 }
 
+/* Generic p and footer */
 p, footer {
-  color: #7d7987;
+  color: var(--text-color-dark);
   font-size: 14px;
   line-height: 28px;
 }
+
+/* Class Line */
+.line {
+  width: 568px;
+  height: 0;
+  margin: 72px auto 0;
+  border: 1px solid var(--border-line);
+}
+
+/* Footer */
 
 footer a + a {
     margin-left: 28px;
 }
 
-.line {
-    width: 568px;
-    height: 0;
-    margin: 72px auto 0;
-    border: 1px solid #ECEFF2;
-}
-
+/* Id imagem balls */
 #balls {
     position: fixed;
     bottom: 0;
