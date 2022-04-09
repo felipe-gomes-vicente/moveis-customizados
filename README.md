@@ -16,7 +16,7 @@ efeito na tag link do rodapé, diminuição da margem proposta no figma para a
 pagina final respeitar a altura do navegador e não ter o feito de scroll na página
 desnecessariamente.
 
-Acesse o página do projeto: [Clique Aqui](https://felipe-gomes-vicente.github.io/moveis-customizados/)
+Acesse a página do projeto: [Clique Aqui](https://felipe-gomes-vicente.github.io/moveis-customizados/)
 
 O que foi feito:
 
