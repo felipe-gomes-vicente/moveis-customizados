@@ -11,8 +11,8 @@
 O desafio desse projeto é corrigir bugs página web que veio desconfigurado, utilizar 
 conhecimento de HTML e CSS de estudo do módulo Stage 2, utilizar o figma para 
 seguir o protótipo do projeto e solucionar o código quebrado.
-Foi além de refatorar foi feito uma estrutura de de sistema de arquivos do projeto,
-efeito no elemento link do rodapé, diminuição da margem proposta no figma para a
+Fui além da aulas, me desafiar em refatorar, uma estrutura de de sistema de arquivos do projeto,
+efeito na tag link do rodapé, diminuição da margem proposta no figma para a
 pagina final respeitar a altura do navegador e não ter o feito de scroll na página
 desnecessariamente.
 
@@ -20,13 +20,13 @@ Acesse o página do projeto: [Clique Aqui](https://felipe-gomes-vicente.github.i
 
 O que foi feito:
 
-- Estruturando o projeto;
+- Estruturar o projeto;
 - Posição dos elementos na tela;
 - Importar arquivo de CSS externo no projeto;
-- Aplicando fontes(tipografia) customizadas no arquivo do CSS e iniciando o CSS externo;
+- Aplicar fontes(tipografia) customizadas no arquivo do CSS e iniciar o CSS externo;
 - Trabalhando com cores e fontes;
-- Alinhando e posicionando textos e elementos;
-- Aplicando os espaçamentos;
+- Alinhar e posicionar textos e elementos;
+- Aplicar os espaçamentos;
 - Bordas e classificações de elementos;
 - Utilizar variaveis CSS para manipular a paleta de cores do projeto;
 - Efeito nos elementos HTML de link do rodapé;
@@ -45,7 +45,7 @@ Aplicado meu conhecimento do Explorer da Rocketseat conceitos de forma prática 
 
 <br />
 
-## A pagina antes de refatorar estava com bugs forma conforme imagem abaixo:
+## A pagina antes de refatorar possuia alguns bugs conforme imagem abaixo:
  <img alt="Imagem incial do pagina sem refatorar" title=" Landing page" src="./assets/refatorar.png" />
 
 ## 🧪 Tecnologias
