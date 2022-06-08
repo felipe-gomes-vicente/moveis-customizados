@@ -1,84 +1,84 @@
 # Móveis Customizados
 
 <h1 align="center">
-    <img alt="Gif do projeto final Móveis Customizados" title="imagem" src="./assets/moveis-customizados.gif" />
+    <img alt="Gif of the finished project Móveis Customizados" title="image" src="./assets/moveis-customizados.gif" />
 </h1>
 
 <br>
 
 ### 💻 Móveis Customizados
 
-O desafio desse projeto é corrigir bugs página web que veio desconfigurado, utilizar 
-conhecimento de HTML e CSS de estudo do módulo Stage 2, utilizar o figma para 
-seguir o protótipo do projeto e solucionar o código quebrado.
-Fui além da aulas, me desafiar em refatorar, uma estrutura de de sistema de arquivos do projeto,
-efeito na tag link do rodapé, diminuição da margem proposta no figma para a
-pagina final respeitar a altura do navegador e não ter o feito de scroll na página
-desnecessariamente.
+The challenge of this project is to fix bugs, web page that came disconfigured, 
+use HTML and CSS knowledge from studying the Stage 2 module, use figma to follow 
+the project prototype and fix the broken code. 
+I went beyond the classes, challenging myself to refactor the project's file system 
+structure, hover effect in the footer's link tag, decrease the margin proposed in 
+the figma for the final page to respect the browser's height and not scroll unnecessarily.
 
-Acesse a página do projeto: [Clique Aqui](https://felipe-gomes-vicente.github.io/moveis-customizados/)
+Watch Webpage Online: [Click Here](https://felipe-gomes-vicente.github.io/moveis-customizados/)
 
-O que foi feito:
+What was developed:
 
-- Estruturar o projeto;
-- Posição dos elementos na tela;
-- Importar arquivo de CSS externo no projeto;
-- Aplicar fontes(tipografia) customizadas no arquivo do CSS e iniciar o CSS externo;
-- Trabalhando com cores e fontes;
-- Alinhar e posicionar textos e elementos;
-- Aplicar os espaçamentos;
-- Bordas e classificações de elementos;
-- Utilizar variaveis CSS para manipular a paleta de cores do projeto;
-- Efeito nos elementos HTML de link do rodapé;
-- Reset CSS removendo possíveis inconsistências entre navegadores diferentes;
-- Estrutura de sistema de arquivos do projeto separado por pasta;
+- Structuring the project;
+- Position of the elements on the screen;
+- Import external CSS file into the project;
+- Apply custom fonts (typography) to the CSS file and start the external CSS;
+- Working with colors and fonts;
+- Aligning and positioning text and elements;
+- Applying spacing;
+- Borders and element classifications;
+- Use CSS variables to manipulate the project's color palette;
+- Hover effect in the footer link HTML elements;
+- CSS reset removing possible inconsistencies between different browsers;
+- Project file system structure separated by folder;
 
-Aplicado meu conhecimento do Explorer da Rocketseat conceitos de forma prática nesse projeto, com as aulas:
+I applied my knowledge of the Explorer from Rocketseat concepts in a practical way 
+to this project, with the lessons:
 
-- Introdução ao HTML e CSS;
+- Introduction to HTML & CSS;
 
 - [EXPLORER - Rocketseat](https://www.rocketseat.com.br/explorer)
-- [Figma do Projeto - Moveis Customizados](https://www.figma.com/file/S8vpYTmkKbcd9e64RFRqX6/Explorer---Projeto-01-(Copy)?node-id=0%3A1)
+- [Design Figma - Moveis Customizados](https://www.figma.com/file/S8vpYTmkKbcd9e64RFRqX6/Explorer---Projeto-01-(Copy)?node-id=0%3A1)
 
-## Imagem do Projeto final:
- <img alt="Print do projeto Moveis customizados" title=" Landing page" src="./assets/print-moveis-customizados.png" />
+## Image from the final project:
+ <img alt="Print Moveis customizados" title=" Landing page" src="./assets/print-moveis-customizados.png" />
 
 <br />
 
-## A pagina antes de refatorar possuia alguns bugs conforme imagem abaixo:
- <img alt="Imagem incial do pagina sem refatorar" title=" Landing page" src="./assets/refatorar.png" />
+## The page before the tweak had a few bugs, as shown below:
+ <img alt="Initial image of the page without adjustment" title=" Landing page" src="./assets/refatorar.png" />
 
-## 🧪 Tecnologias
+## 🧪 Tools
 
-Aplicação desenvolvida usando as seguintes tecnologias:
+Application developed using the following tools:
 
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
 
-## 🚀 Iniciar Projeto
+## 🚀 Getting started
 
-Live server com VScode ou apenas clonar pasta e acessar o index.html
+Live server with VScode or just clone folder and access index.html
 
 ### Programas necessários para iniciar projeto
 
 - [Live Server (Opcional)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Visual Studio Code - Vscode](https://code.visualstudio.com/)
 
-Clone o projeto e acesso a pasta.
+Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/felipe-gomes-vicente/moveis-customizados.git
 $ cd moveis-customizados
 ```
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
 
 &nbsp;
 
-<p align="center">Feito com 💜 by Felipe Vicente👋</p>
+<p align="center">Done with 💜 by Felipe Vicente👋</p>
 
 - ## My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/)
