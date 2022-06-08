@@ -35,7 +35,7 @@ What was developed:
 I applied my knowledge of the Explorer from Rocketseat concepts in a practical way 
 to this project, with the lessons:
 
-- Introduction to HTML & CSS;
+- Introduction to HTML and CSS;
 
 - [EXPLORER - Rocketseat](https://www.rocketseat.com.br/explorer)
 - [Design Figma - Moveis Customizados](https://www.figma.com/file/S8vpYTmkKbcd9e64RFRqX6/Explorer---Projeto-01-(Copy)?node-id=0%3A1)
@@ -59,7 +59,7 @@ Application developed using the following tools:
 
 Live server with VScode or just clone folder and access index.html
 
-### Programas necessários para iniciar projeto
+### Programs needed to Getting started
 
 - [Live Server (Opcional)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Visual Studio Code - Vscode](https://code.visualstudio.com/)
